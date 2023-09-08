@@ -34,11 +34,11 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
     - <a href="#pocket">Pocket Dial</a>
 
 # <h2 id="GENERAL"><strong>GENERAL</strong></h2>
-<center>
+
  - <p id="Salamu"><b>Salamu, Dunia</b></p>
- ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/1.png)<br>
+ ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/1.png) 
  Soalan diberi cuma <i>link website</i><br>
- ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png)<br>
+ ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png) 
  Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <i> Swahili </i> sahaja boleh mengekses kepada <i> content website </i> tersebut.
  
 
