@@ -172,9 +172,21 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 34](CTFILP/Stolen/1%20-%20Who%20is%20the%20bad%20guy/1.png)
 <p>Diberi adalah sebuah <i>folder .log</i>. <i>Download folder .log</i> tersebut. Soalan : <b>What's the attackerss IP Address?</b></p> 
 
-![image 34](CTFILP/Stolen/1%20-%20Who%20is%20the%20bad%20guy/2.png)
+![image 35](CTFILP/Stolen/1%20-%20Who%20is%20the%20bad%20guy/2.png)
 <p>Buka <i>folder .log</i> dan jumpa  : <b>162.142.125.13</b>.</p> 
 
 # <h2 id="HACKED"><strong>HACKED</strong></h2>
 
 - <h3 id="Hack1"><b>Hacked 1</b></h3>
+
+![image 36](CTFILP/Hacked/1/1.png)
+<p>Diberi adalah sebuah <i>folder .zip</i>. <i>Download folder .zip</i> tersebut. Soalan : <b>What's the attackers IP Address?</b></p> 
+<p>Maklumat tambahan : </p>
+<p>Bila di<i>extract folder</i> tersebut, fail berbentuk <i>image</i> <b>.OVA</b> dan dibuka di <b>VirtualBox/VMWare</b>.</p>
+<p><i>Image file</i> telah dibuka dan terdapat <i>user</i> bernama <b>Ahmad</b> serta ada <p>password</p> untuk akses.</p>
+<p>Hanya meneka <p>password</p> <b>Ahmad</b> dan YA! BETUL!</p>
+<p>Setelah diakses, terus ke <i>Event Viewer - Security</i> dan analisis setiap log. Terdapat log yang mencurigakan.</p>
+
+
+![image 37](CTFILP/Hacked/1/2.png)
+<p><i>Click</i> log tersebut dan dapat <i>ip attacker's</i>.</p> 
