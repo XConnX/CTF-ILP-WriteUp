@@ -12,3 +12,6 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
     - <a href="#Admin" id="Admin">Be The Admin</a>
     - <a href="#Mystification" id="Mystification">Mystification</a>
     - <a href="#Slow" id="Slow">Slow Internet</a>
+
++ <b><a href="#STOLEN" id="STOLEN">STOLEN</a></b>
+    - <a href="#Whobad" id="Whobad">Who is the bad guy?</a>
