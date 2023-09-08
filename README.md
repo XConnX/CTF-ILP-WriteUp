@@ -31,8 +31,6 @@
     - <a href="#hiding">Hiding</a>
     - <a href="#supper">Supper</a>
     
- + <b><a href="#GENERALS">.GENERAL</a></b>
-    - <a href="#pocket">Pocket Dial</a>
 
 # <h2 id="GENERAL"><strong>GENERAL</strong></h2>
 
@@ -292,12 +290,6 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 58](CTFILP/Trivia/3%20-%20Supper/1.png)
 <p><i>MD5 Encryption</i>, <i>encrypt</i> Ayam Goreng : <code>f2255ef10c6c1b2d681a67b614c59559</code>.</p>
 
-![image 58](CTFILP/Trivia/3%20-%20Supper/2.png)
+![image 59](CTFILP/Trivia/3%20-%20Supper/2.png)
 <p>Jawapan : <i>Encrypt</i> NasiAyam : <code>4d9eeb0fe9eb1d28492508c2db631c38</code>.</p>
-
-
-
-
-
-
 
