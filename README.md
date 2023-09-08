@@ -36,4 +36,9 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
 # <h2 id="GENERAL"><strong>GENERAL</strong></h2>
 
  - <p id="Salamu"><b>Salamu, Dunia</b></p>
+ ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/1.png)
+ Soalan diberi cuma <i>link website</i>
+ ![image info](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png)
+ Bila diclick ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <i> Swahili </i> sahaja boleh mengekses kepada <i> content website </i> tersebut.
+ 
 
