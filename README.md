@@ -72,6 +72,24 @@
 <p>Soalan diberi <i>link website</i>.</p>
 
 ![image 11](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
-<p>Cuba dengan menggukan <i>command linux</i> iaitu <b>dig</b> dan dapat <b>flag</b>.</p>
+<p>Cuba dengan menggukan <i>command linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
 
+- <p id="Manage"><b>Flag Management System</b></p>
 
+![image 12](CTFILP/General/2%20-%20Gold%20Digger/1.png) 
+<p>Diberi adalah sebuah <i>folder</i>. <i>Download folder</i> tersebut.</p> 
+
+![image 13](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
+<p><i>Extract folder</i> dan diberi adalah sebuah aplikasi berbentuk <i>EXE</i> dan <i> .Application</i> jadi ini adalah aplikasi <i>.NET</i>.</p> 
+
+![image 14](CTFILP/General/2%20-%20Gold%20Digger/3.png) 
+<p><i> Run </i> aplikasi tersebut. Ia memerlukan <i>username</i> dan <i>password</i>. </p> 
+
+![image 15](CTFILP/General/2%20-%20Gold%20Digger/4.png) 
+<p> <i> Disamble .NET</i> menggunakan <b>JetBrains dotPeek</b>. Pilih <i>process</i> aplikasi.</p>
+
+![image 16](CTFILP/General/2%20-%20Gold%20Digger/5.png) 
+<p> Dapat lihat <b> source code</b>.</p>
+
+![image 17](CTFILP/General/2%20-%20Gold%20Digger/6.png) 
+<p> Masukkan <i>username</i> dan <i>password</i>. Flag.</p>
