@@ -141,13 +141,13 @@
 <p>Result adalah sebuah <i>folder</i>. <i>Download folder</i>.</p> 
 
 ![image 32](CTFILP/General/6%20-%20Slow%20Internet/8.png)
-<p>Terdapat <i>flag file</i>, masukkan <i>password</i> yang di<i>encrpt</i> awal : <b> NasiAyamKakWok</b>.</p>
+<p>Terdapat <i>flag file</i>, masukkan <i>password</i> yang di<i>encrypt</i> awal : <b> NasiAyamKakWok</b>.</p>
 
 ![image 33](CTFILP/General/6%20-%20Slow%20Internet/9.png)
 <p><b>Flag</b>.</p>
 
 <p>Maklumat :</p>
-```A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
+<code>A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
 
 01-KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZ \zqu"vqpzppt"ppppvz*$t'bdrcsqc}xppppr$ppppptppwpp|+
  02-WGCZZOOR4HIVKUBEAAHX7K6NSNN2XTMR2XQCYAAECOQAYAAACO 
@@ -161,7 +161,7 @@
 
 A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
 
-KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XTMR2XQCYAAECOQAYAAACOQAYAAA546JIBXPIZM5VRXMLWEWB56MVZJUCOJ2PQN5IQHPIEEMYYKMV556FCSTYKXVWTAGRH6TAXFHGSW2NNLQQ7M4SQJMDQQ7IXAYPDKAAAAAUQAAAAKBFQCAQ6AMFAACIAAAADFMJCK56ROBQ6GUAAAABJAAAAACAADAAAAAAAAAAQAAAAUSAQAAAAABTGYYLHFZ2HQ5CVKQCQAA675LZWI5LYBMAACBHIAMAAABHIAMAAAUCLAUDAAAAAAAAQAAIAJYAAAAEHAAAAAAAA - LINK```
+KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XTMR2XQCYAAECOQAYAAACOQAYAAA546JIBXPIZM5VRXMLWEWB56MVZJUCOJ2PQN5IQHPIEEMYYKMV556FCSTYKXVWTAGRH6TAXFHGSW2NNLQQ7M4SQJMDQQ7IXAYPDKAAAAAUQAAAAKBFQCAQ6AMFAACIAAAADFMJCK56ROBQ6GUAAAABJAAAAACAADAAAAAAAAAAQAAAAUSAQAAAAABTGYYLHFZ2HQ5CVKQCQAA675LZWI5LYBMAACBHIAMAAABHIAMAAAUCLAUDAAAAAAAAQAAIAJYAAAAEHAAAAAAAA - LINK</code>
 
 # <h2 id="STOLEN"><strong>STOLEN</strong></h2>
 
@@ -204,14 +204,14 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 40](CTFILP/Hacked/3/2.png)
 ![image 41](CTFILP/Hacked/3/3.png)
 ![image 42](CTFILP/Hacked/3/4.png)
-<p>Buka setiap log<b>LOGON</b>.<p>
+<p>Buka setiap log <b>LOGON</b>.<p>
 <p><i>Username</i> yang digunakan adalah <i>user</i>,<i>admin</i> dan <i>administrator</i>.</p> 
 <p>Jawapan : 3.</p>
 
 - <h3 id="Hack4"><b>Hacked 4</b></h3>
 
 ![image 43](CTFILP/Hacked/4/1.png)
-<p>Soalan : <b>What is the timestamp that the attacker first successfully login to the computer?</b>.</p> 
+<p>Soalan : <b>What is the timestamp that the attacker first successfully login to the computer?</b></p> 
 <p> Maklumat : analisis setiap log. Cari <i>bruteforce attack</i> yang terakhir dan jumpa akses yang pertama.</p>
 
 ![image 44](CTFILP/Hacked/4/2.png)
@@ -272,7 +272,7 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 <p>Soalan diberi adalah <i>encrypt</i>. Kemungkinan adalah <b>ROT Encryption</b>.</p>
 
 ![image 54](CTFILP/Trivia/1%20-%20Puisi/2.png)
-<p><i>Copy</i> dan <i>decrpyt</i>.Jumpa jawapan menggunakan <b>ROT19 Encryption</b>.</p>
+<p><i>Copy</i> dan <i>decrpyt</i>. Jumpa jawapan menggunakan <b>ROT19 Encryption</b>.</p>
 
 ![image 55](CTFILP/Trivia/1%20-%20Puisi/3.png)
 <p><i>Flag.</i></p>
@@ -280,7 +280,7 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 - <h3 id="hiding"><b>Hiding</b></h3>
 
 ![image 56](CTFILP/Trivia/2%20-%20Hiding/1.png)
-<p>Soalan : <i>Ahmad secretly embedding information within other data.Name this technique</i>.</p>
+<p>Soalan : <i>Ahmad secretly embedding information within other data. Name this technique</i>.</p>
 
 ![image 57](CTFILP/Trivia/2%20-%20Hiding/2.png)
 <p>Jawapan : <b>Steganography</b>.</p>
