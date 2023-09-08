@@ -254,17 +254,46 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 50](CTFILP/Hacked/7/1.png)
 <p> Cari <i>flag</i>.</p>
 
-<p>Akses <i>Windows 10</i> tadi menggunkan <i>user admin</i> dengan <i>password </i>Password10.</p>
+<p>Akses <i>Windows 10</i> tadi menggunakan <i>user admin</i> dengan <i>password </i>Password10.</p>
 
 <p>Maklumat : </p>
 <p>Buka <i>allocated partition</i> kemungkinan <i>flag</i> ada ada di dalam <i>partiton</i> tersebut.</p>
 <p><i>partition</i> berbentuk <b>RAW</b>. <i>Recover partition</i> tersebut menggunakan <b>DISK DRILL</b>.</p>
 
-![image 52](CTFILP/Hacked/7/2.png)
-<p>Jumpa! Fail bernama <b>Assignment.docx</b>.</p>
+![image 51](CTFILP/Hacked/7/2.png)
+<p>Jumpa! Fail bernama <b>assignment.docx</b>.</p>
 
-![image 53](CTFILP/Hacked/7/3.png)
+![image 52](CTFILP/Hacked/7/3.png)
 <p><i>Recover</i> dan dapat <i>flag</i>.</p>
+
+# <h2 id="TRIVIA"><strong>TRIVIA</strong></h2>
+
+- <h3 id="puisi"><b>Puisi</b></h3>
+
+![image 53](CTFILP/Trivia/1%20-%20Puisi/1.png)
+<p>Soalan diberi adalah <i>encrypt</i>. Kemungkinan adalah <b>ROT Encryption</b>.</p>
+
+![image 54](CTFILP/Trivia/1%20-%20Puisi/2.png)
+<p><i>Copy</i> dan <i>decrpyt</i>.Jumpa jawapan menggunakan <b>ROT19 Encryption</b>.</p>
+
+![image 55](CTFILP/Trivia/1%20-%20Puisi/3.png)
+<p><i>Flag.</i></p>
+
+- <h3 id="hiding"><b>Hiding</b></h3>
+
+![image 56](CTFILP/Trivia/2%20-%20Hiding/1.png)
+<p>Soalan : <i>Ahmad secretly embedding information within other data.Name this technique</i>.</p>
+
+![image 57](CTFILP/Trivia/2%20-%20Hiding/2.png)
+<p>Jawapan : <b>Steganography</b>.</p>
+
+- <h3 id="supper"><b>Supper</b></h3>
+
+![image 58](CTFILP/Trivia/3%20-%20Supper/1.png)
+<p><i>MD5 Encryption</i>, <i>encrypt</i> Ayam Goreng : <code>f2255ef10c6c1b2d681a67b614c59559</code>.</p>
+
+![image 58](CTFILP/Trivia/3%20-%20Supper/2.png)
+<p>Jawapan : <i>Encrypt</i> NasiAyam : <code>4d9eeb0fe9eb1d28492508c2db631c38</code>.</p>
 
 
 
