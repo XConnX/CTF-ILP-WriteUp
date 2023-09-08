@@ -72,7 +72,7 @@
 <p>Soalan diberi <i>link website</i>.</p>
 
 ![image 11](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
-<p>Cuba dengan menggukan <i>command linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
+<p>Menggunakan <i>command linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
 
 - <p id="Manage"><b>Flag Management System</b></p>
 
@@ -100,7 +100,7 @@
 <p>Soalan diberi <i>link website</i> serta <i>hint</i> mengatakan hanya <i>admin</i> sahaja boleh <i>akses</i>.</p>
 
 ![image 19](CTFILP/General/4%20-%20Be%20the%20admin/2.png) 
-<p>Cuba <b>SQL Injection</b> dengan menggunakan keyword <b>Admin' #</b>sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
+<p><b>SQL Injection</b> dengan menggunakan keyword <b>Admin' #</b> sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
 
 ![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
 <p>Flag.</p>
