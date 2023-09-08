@@ -41,21 +41,29 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
 <p>Soalan diberi <i>link website</i></p>.
  
 ![image 2](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png) 
-<p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <i> Swahili </i> sahaja boleh mengekses kepada <i> content website </i> tersebut. Cuba akses dengan mengubah 
-<i>cookies</i> website dengan bahasa <i>Swahili</i> menggunakan <i>Inspect Element - Tab Application - Cookies</i></p>
+<p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <b> Swahili </b> sahaja boleh mengekses kepada <i> content website </i> tersebut. Cuba akses dengan mengubah 
+<i>cookies</i> website dengan bahasa <b>Swahili</b>. Menggunakan <i>Inspect Element - Tab Application - Cookies</i></p>
  
 ![image 3](CTFILP/General/1%20-%20Salamu%2C%20Dunia/3.png) 
 <p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553 </strong>. Apakah maksud <i>values</i> tersebut? Cuba <i> decrypt</i>. </p>
      
 ![image 4](CTFILP/General/1%20-%20Salamu%2C%20Dunia/4.png)      
-<p> <i> Copy value</i> tersebut dan paste di <a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a> tekan <i> Solve </i>.</p>
+<p> <i> Copy value</i> tersebut dan paste di <i><a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a></i> tekan <i> Solve </i>.</p>
      
 ![image 5](CTFILP/General/1%20-%20Salamu%2C%20Dunia/5.png)      
-<p> <i> Scroll </i> kebawah dan jumpa value yang tepat iaitu  <i> en_US </i>. Bermaksud ini adalah <i>value</i> bahasa.</p>
+<p> <i> Scroll </i> kebawah dan jumpa value yang tepat iaitu  <i> en_US </i>. Bermaksud ini adalah <i>value</i> bahasa dan <i> encryption</i> adalah <b> Hexadecimal </b></p>
 
 ![image 6](CTFILP/General/1%20-%20Salamu%2C%20Dunia/6.png)  
+<p> Pergi ke <i><a href="https://www.rapidtables.com/convert/number/hex-to-ascii.html"> Decoder </a></i> dan <i>decode</i> memang benar ini adalah  <i> values</i> bahasa <b>English</b></p>
 
+![image 7](CTFILP/General/1%20-%20Salamu%2C%20Dunia/7.png)  
+<p> Cari bahasa <b>Swahili</b> dalam bentuk <i> Code Language</i> dan <i> locale </i>. : <b>sw_TZ </b>.</p>
 
+![image 8](CTFILP/General/1%20-%20Salamu%2C%20Dunia/8.png) 
+<p> Masukkan <i>value</i> <b>sw_TZ</b> dan <i>encrypt</i> kepada <b>Hexadecimal</b>. Copy <i>value</i> tersebut, <i>paste</i> di <i>value cookies</i> tekan <i>enter </i> dan <i>refresh</i>.</p>
+
+![image 9](CTFILP/General/1%20-%20Salamu%2C%20Dunia/9.png)
+<p>Dan ini adalah <b>flag</b>nya.</p>
 
  
 
