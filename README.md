@@ -5,7 +5,7 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
 
 <HR>
 
-+ <a href="#GENERAL" id="GENERAL">GENERAL</a>
++ <h2><b></b><a href="#GENERAL" id="GENERAL">GENERAL</a></b></h2>
     - <a href="#Salamu" id="Salamu">Salamu, Dunia</a>
     - <a href="#Gold" id="Gold">Gold Digger</a>
     - <a href="#Manage" id="Manage">Flag Management System</a>
