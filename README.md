@@ -66,5 +66,12 @@
 ![image 9](CTFILP/General/1%20-%20Salamu%2C%20Dunia/9.png)
 <p>Dan ini adalah <b>flag</b>nya.</p>
 
- 
+- <p id="Gold"><b>Gold Digger</b></p>
+
+![image 10](CTFILP/General/2%20-%20Gold%20Digger/1.png) 
+<p>Soalan diberi <i>link website</i>.</p>
+
+![image 11](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
+<p>Cuba dengan menggukan <i>command linux</i> iaitu <b>dig</b> dan dapat <b>flag</b>.</p>
+
 
