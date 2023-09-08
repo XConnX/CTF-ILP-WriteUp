@@ -42,7 +42,7 @@
 <p>Soalan diberi <i>link website</i>.</p>
  
 ![image 2](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png) 
-<p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <b> Swahili </b> sahaja boleh mengekses kepada <i> content website </i> tersebut. Cuba akses dengan mengubah 
+<p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <b> Swahili </b> sahaja boleh mengakses kepada <i> content website </i> tersebut. Cuba akses dengan mengubah 
 <i>cookies</i> website dengan bahasa <b>Swahili</b>. Menggunakan <i>Inspect Element - Tab Application - Cookies</i>.</p>
  
 ![image 3](CTFILP/General/1%20-%20Salamu%2C%20Dunia/3.png) 
@@ -89,7 +89,18 @@
 <p> <i> Disamble .NET</i> menggunakan <b>JetBrains dotPeek</b>. Pilih <i>process</i> aplikasi.</p>
 
 ![image 16](CTFILP/General/3%20-%20Flag%20Management%20System/5.png) 
-<p> Dapat lihat <b> source code</b>.</p>
+<p> Dapat lihat <b> source code</b>.  Masukkan <i>username</i> dan <i>password</i>.</p>
 
 ![image 17](CTFILP/General/3%20-%20Flag%20Management%20System/6.png) 
-<p> Masukkan <i>username</i> dan <i>password</i>. Flag.</p>
+<p> Flag.</p>
+
+- <p id="Admin"><b>Be The Admin</b></p>
+
+![image 18](CTFILP/General/4%20-%20Be%20the%20admin/1.png) 
+<p>Soalan diberi <i>link website</i> serta <i>hint</i> mengatakan hanya <i>admin</i> sahaja boleh <i>akses</i>.</p>
+
+![image 19](CTFILP/General/4%20-%20Be%20the%20admin/2.png) 
+<p>Cuba <b>SQL Injection</b> dengan menggunakan keyword <b>Admin' #</b>sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
+
+![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
+<p>Flag.</p>
