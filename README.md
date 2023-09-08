@@ -34,3 +34,6 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
     - <a href="#pocket" id="pocket">Pocket Dial</a>
 
 # <h2 id="GENERAL"><strong>GENERAL</strong></h2>
+
+ - <p id="Salamu"><b></b>Salamu, Dunia<b></b></p>
+
