@@ -148,7 +148,7 @@
 ![image 33](CTFILP/General/6%20-%20Slow%20Internet/9.png)
 <p><b>Flag</b>.</p>
 
-<p>Maklumat:</p>
+<p>Maklumat :</p>
 ```A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
 
 01-KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZ \zqu"vqpzppt"ppppvz*$t'bdrcsqc}xppppr$ppppptppwpp|+
@@ -181,7 +181,7 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 
 ![image 36](CTFILP/Hacked/1/1.png)
 <p>Diberi adalah sebuah <i>folder .zip</i>. <i>Download folder .zip</i> tersebut. Soalan : <b>What's the attackers IP Address?</b></p> 
-<p>Maklumat tambahan : </p>
+<p>Maklumat : </p>
 <p>Bila di<i>extract folder</i> tersebut, fail berbentuk <i>image</i> <b>.OVA</b> dan dibuka di <b>VirtualBox/VMWare</b>.</p>
 <p><i>Image file</i> telah dibuka dan terdapat <i>user</i> bernama <b>Ahmad</b> serta ada <i>password</i> untuk akses.</p>
 <p>Hanya meneka <i>password</i> <b>Ahmad</b> dan YA! BETUL!</p>
@@ -210,20 +210,20 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 <p><i>Username</i> yang digunakan adalah <i>user</i>,<i>admin</i> dan <i>administrator</i>.</p> 
 <p>Jawapan : 3.</p>
 
-- <h3 id="Hack3"><b>Hacked 3</b></h3>
+- <h3 id="Hack4"><b>Hacked 4</b></h3>
 
 ![image 43](CTFILP/Hacked/4/1.png)
 <p>Soalan : <b>What is the timestamp that the attacker first successfully login to the computer?</b>.</p> 
-<p> Maklumat Tambahan : analisis setiap log. Cari <i>bruteforce attack</i> yang terakhir dan jumpa akses yang pertama.</p>
+<p> Maklumat : analisis setiap log. Cari <i>bruteforce attack</i> yang terakhir dan jumpa akses yang pertama.</p>
 
 ![image 44](CTFILP/Hacked/4/2.png)
 <p>Jawapan : 9/4/2023 7:31:51 AM.</p>
 
-- <h3 id="Hack4"><b>Hacked 4</b></h3>
+- <h3 id="Hack5"><b>Hacked 5</b></h3>
 <p> Tidak sempat <i>screenshot</i> soalan :D.</p>
 <p>Tapi soalan diminta adalah password apakah yang digunakan <i>attacker</i>?</p>
 
-<p>Maklumat Tambahan : untuk cari password yang telah diakses oleh <i>attacker</i> kita memerlukan satu aplikasi yang bernama <b>mimikatz</b> untuk <b>dump hashes logon user</b>.</p>
+<p>Maklumat : untuk cari password yang telah diakses oleh <i>attacker</i> kita memerlukan satu aplikasi yang bernama <b>mimikatz</b> untuk <b>dump hashes logon user</b>.</p>
 
 ![image 45](CTFILP/Hacked/5/3.png)
 <p>Mula-mula perlu simpan <b>registery</b>.</p>
@@ -232,13 +232,43 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 <p>PENTING! <b>RUN MIMIKATS AS ADMINISTRATOR</b>.<p>
 <p><i>Command</i> yang pertama untuk akses <i>dump</i>: <code>privilege::debug</code> .<p>
 <p><i>Command</i> kedua : <code>token::elevate</code> .</p>
+<p>Seterusnya <b>dump hashes</b> menggunakan <i>command</i> ketiga <code>lsadump::sam filename1.hiv filename2.hiv</code>.</p>
 
 ![image 46](CTFILP/Hacked/5/1.png)
-<p>Seterusnya <b>dump hashes</b> menggunakan <i>command</i> ketiga <code>lsadump::sam filename1.hiv filename2.hiv</code>.</p>
 <p><i>Command</i> keempat <code>log hash.txt</code>. Untuk simpan sebagai <i>text file</i>.</p>
 
 ![image 47](CTFILP/Hacked/5/2.png)
 <p><b>Crack NTLM Hashes</b> tersebut. Jawapan : password10.</p>
+
+- <h3 id="Hack6"><b>Hacked 6</b></h3>
+
+![image 48](CTFILP/Hacked/6/1.png)
+<p>Soalan : <b>What is the size of the missing partition?</b>.</p> 
+<p>Maklumat : buka <i>This PC, right click - Manage </i>.</p> 
+
+![image 49](CTFILP/Hacked/6/2.png)
+<p>Partition satu <i>allocated partition</i>. <i>Convert MB TO GB</i> Jawapan : 1GB</p>
+
+- <h3 id="Hack7"><b>Hacked 7</b></h3>
+
+![image 50](CTFILP/Hacked/7/1.png)
+<p> Cari <i>flag</i>.</p>
+
+![image 51](CTFILP/Hacked/7/2.png)
+<p>Akses <i>user admin</i> dengan <i>password </i>Password10.</p>
+
+<p>Maklumat : </p>
+<p>Buka <i>allocated partition</i> kemungkinan <i>flag</i> ada ada di dalam <i>partiton</i> tersebut.</p>
+<p><i>partition</i> berbentuk <b>RAW</b>. <i>Recover partition</i> tersebut menggunakan <b>DISK DRILL</b>.</p>
+
+![image 52](CTFILP/Hacked/7/3.png)
+<p>Jumpa! Fail bernama <b>Assignment.docx</b>.</p>
+
+![image 53](CTFILP/Hacked/7/4.png)
+<p><i>Recover</i> dan dapat <i>flag</i>.</p>
+
+
+
 
 
 
