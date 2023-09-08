@@ -46,13 +46,13 @@
 <i>cookies</i> website dengan bahasa <b>Swahili</b>. Menggunakan <i>Inspect Element - Tab Application - Cookies</i>.</p>
  
 ![image 3](CTFILP/General/1%20-%20Salamu%2C%20Dunia/3.png) 
-<p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553 </strong>. Apakah maksud <i>values</i> tersebut? Cuba <i> decrypt</i>. </p>
+<p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553</strong>. Apakah maksud <i>values</i> tersebut? Cuba <i> decrypt</i>. </p>
      
 ![image 4](CTFILP/General/1%20-%20Salamu%2C%20Dunia/4.png)      
-<p> <i> Copy value</i> tersebut dan paste di <i><a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a></i> tekan <i> Solve </i>.</p>
+<p> <i> Copy value</i> tersebut dan <i>paste</i> di <i><a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a></i> tekan <i> Solve</i>.</p>
      
 ![image 5](CTFILP/General/1%20-%20Salamu%2C%20Dunia/5.png)      
-<p> <i> Scroll </i> kebawah dan jumpa value yang tepat iaitu  <i> en_US </i>. Bermaksud ini adalah <i>value</i> bahasa menggunakan<i> encryption</i> <b> Hexadecimal. </b></p>
+<p> <i> Scroll </i> kebawah dan jumpa value yang tepat iaitu  <i> en_US</i>. Bermaksud ini adalah <i>value</i> bahasa menggunakan<i> encryption</i> <b> Hexadecimal. </b></p>
 
 ![image 6](CTFILP/General/1%20-%20Salamu%2C%20Dunia/6.png)  
 <p> Pergi ke <i><a href="https://www.rapidtables.com/convert/number/hex-to-ascii.html"> Hexadecimal Decoder </a></i> dan <i>decode</i>, memang benar ini adalah  <i> values</i> bahasa <b>English</b>.</p>
@@ -100,7 +100,7 @@
 <p>Soalan diberi <i>link website</i> serta <i>hint</i> mengatakan hanya <i>admin</i> sahaja boleh <i>akses</i>.</p>
 
 ![image 19](CTFILP/General/4%20-%20Be%20the%20admin/2.png) 
-<p><b>SQL Injection</b> dengan menggunakan keyword <b>Admin' #</b> sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
+<p><b>SQL Injection</b> dengan menggunakan keyword "<b>Admin' #</b>" sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
 
 ![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
 <p>Flag.</p>
