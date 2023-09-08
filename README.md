@@ -100,7 +100,7 @@
 <p>Soalan diberi <i>link website</i> serta <i>hint</i> mengatakan hanya <i>admin</i> sahaja boleh <i>akses</i>.</p>
 
 ![image 19](CTFILP/General/4%20-%20Be%20the%20admin/2.png) 
-<p><b>SQL Injection</b> dengan menggunakan keyword "<b>Admin' #</b>" sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
+<p><b>SQL Injection</b> dengan menggunakan keyword <code><b>Admin' #</b></code> sebagai <i>username</i> dan <i>password</i> boleh diisi apa sahaja.</p>
 
 ![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
 <p>Flag.</p>
