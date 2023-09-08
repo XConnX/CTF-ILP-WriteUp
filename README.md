@@ -38,10 +38,16 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
  - <p id="Salamu"><b>Salamu, Dunia</b></p>
  
 ![image 1](CTFILP/General/1%20-%20Salamu%2C%20Dunia/1.png) 
- <p>Soalan diberi <i>link website</i></p>
+ <p>Soalan diberi <i>link website</i></p>.
  
 ![image 2](CTFILP/General/1%20-%20Salamu%2C%20Dunia/2.png) 
- <p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <i> Swahili </i> sahaja boleh mengekses kepada <i> content website </i> tersebut.</p>
+ <p>Bila di <i>click</i> ini adalah <i>content website</i> tersebut dan menyatakan bahawa hanya bahasa <i> Swahili </i> sahaja boleh mengekses kepada <i> content website </i> tersebut. Cuba akses dengan mengubah 
+ <i>cookies</i> website dengan bahasa <i>Swahili</i> menggunakan <i>Inspect Element - Tab Application - Cookies</i></p>
+ 
+![image 3](CTFILP/General/1%20-%20Salamu%2C%20Dunia/3.png) 
+ <p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553 </strong>. Apakah maksud <i>values</i> tersebut?. Cuba <i> decrypt</i>. <i> Copy value</i></p> tersebut dan paste di 
+
+
 
  
 
