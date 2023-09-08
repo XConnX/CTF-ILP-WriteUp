@@ -170,7 +170,7 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 - <h3 id="Whobad"><b>Who is the bad guy?</b></h3>
 
 ![image 34](CTFILP/Stolen/1%20-%20Who%20is%20the%20bad%20guy/1.png)
-<p>Diberi adalah sebuah <i>folder .log</i>. <i>Download folder .log</i> tersebut. Soalan : <b>What's the attackerss IP Address?</b></p> 
+<p>Diberi adalah sebuah <i>folder .log</i>. <i>Download folder .log</i> tersebut. Soalan : <b>What's the attackers IP Address?</b></p> 
 
 ![image 35](CTFILP/Stolen/1%20-%20Who%20is%20the%20bad%20guy/2.png)
 <p>Buka <i>folder .log</i> dan jumpa  : <b>162.142.125.13</b>.</p> 
@@ -183,10 +183,61 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 <p>Diberi adalah sebuah <i>folder .zip</i>. <i>Download folder .zip</i> tersebut. Soalan : <b>What's the attackers IP Address?</b></p> 
 <p>Maklumat tambahan : </p>
 <p>Bila di<i>extract folder</i> tersebut, fail berbentuk <i>image</i> <b>.OVA</b> dan dibuka di <b>VirtualBox/VMWare</b>.</p>
-<p><i>Image file</i> telah dibuka dan terdapat <i>user</i> bernama <b>Ahmad</b> serta ada <p>password</p> untuk akses.</p>
-<p>Hanya meneka <p>password</p> <b>Ahmad</b> dan YA! BETUL!</p>
-<p>Setelah diakses, terus ke <i>Event Viewer - Security</i> dan analisis setiap log. Terdapat log yang mencurigakan.</p>
-
+<p><i>Image file</i> telah dibuka dan terdapat <i>user</i> bernama <b>Ahmad</b> serta ada <i>password</i> untuk akses.</p>
+<p>Hanya meneka <i>password</i> <b>Ahmad</b> dan YA! BETUL!</p>
+<p>Setelah diakses, terus ke <i>Event Viewer - Windows Logs - Security</i> dan analisis setiap log. Terdapat log yang mencurigakan.</p>
 
 ![image 37](CTFILP/Hacked/1/2.png)
 <p><i>Click</i> log tersebut dan dapat <i>ip attacker's</i>.</p> 
+
+- <h3 id="Hack2"><b>Hacked 2</b></h3>
+
+![image 38](CTFILP/Hacked/2/1.png)
+<p>Soalan : <b>What is the name of an attack performed by the attacker on MKS_w10?</b>.</p> 
+
+![image 39](CTFILP/Hacked/2/2.png)
+<p>Analisis menunjukkan adanya percubaan untuk <b>bruteforce attack</b> dimana menunjukkan ada log <i>LOGON</i> yang banyak dan tidak dapat diakses. Jawapan : <b>bruteforce</b>.</p> 
+
+- <h3 id="Hack3"><b>Hacked 3</b></h3>
+
+![image 39](CTFILP/Hacked/3/1.png)
+<p>Soalan : <b>How many username were tried by the attacker?</b>.</p> 
+
+![image 40](CTFILP/Hacked/3/2.png)
+![image 41](CTFILP/Hacked/3/3.png)
+![image 42](CTFILP/Hacked/3/4.png)
+<p>Buka setiap log<b>LOGON</b>.<p>
+<p><i>Username</i> yang digunakan adalah <i>user</i>,<i>admin</i> dan <i>administrator</i>.</p> 
+<p>Jawapan : 3.</p>
+
+- <h3 id="Hack3"><b>Hacked 3</b></h3>
+
+![image 43](CTFILP/Hacked/4/1.png)
+<p>Soalan : <b>What is the timestamp that the attacker first successfully login to the computer?</b>.</p> 
+<p> Maklumat Tambahan : analisis setiap log. Cari <i>bruteforce attack</i> yang terakhir dan jumpa akses yang pertama.</p>
+
+![image 44](CTFILP/Hacked/4/2.png)
+<p>Jawapan : 9/4/2023 7:31:51 AM.</p>
+
+- <h3 id="Hack4"><b>Hacked 4</b></h3>
+<p> Tidak sempat <i>screenshot</i> soalan :D.</p>
+<p>Tapi soalan diminta adalah password apakah yang digunakan <i>attacker</i>?</p>
+
+<p>Maklumat Tambahan : untuk cari password yang telah diakses oleh <i>attacker</i> kita memerlukan satu aplikasi yang bernama <b>mimikatz</b> untuk <b>dump hashes logon user</b>.</p>
+
+![image 45](CTFILP/Hacked/4/3.png)
+<p>Mula-mula perlu simpan <b>registery</b>.</p>
+<p>PENTING! <b>RUN AS ADMINISTRATOR</b>.<p>
+<p><i>Command</i> yang pertama untuk akses <i>dump</i>: <code>privilege::debug</code> .<p>
+<p><i>Command</i> kedua : <code>token::elevate</code> .</p>
+
+![image 46](CTFILP/Hacked/4/1.png)
+<p>Seterusnya <b>dump hashes</b> menggunakan <i>command</i> ketiga <code>lsadump::sam filename1.hiv filename2.hiv</code>.</p>
+<p><i>Command</i> keempat <code>log hash.txt</code>. Untuk simpan sebagai <i>text file</i>.</p>
+
+![image 47](CTFILP/Hacked/4/2.png)
+<p><b>Crack NTLM Hashes</b> tersebut. Jawapan : password10.</p>
+
+
+
+
