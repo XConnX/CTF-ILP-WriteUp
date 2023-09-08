@@ -2,5 +2,6 @@
 
 Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Institut Latihan Perindustrian Kuala Langat sempena program MINGGU KESELAMATAN SIBER ILP KUALA LANGAT.
 
- <a href="#GENERAL" id="GENERAL">GENERAL</a>
-- Salamu, Dunia
+#<a href="#GENERAL" id="GENERAL">GENERAL</a>
+- <a href="#Salamu" id="Salamu">Salamu, Dunia</a>
+- <a href="#Salamu" id="Salamu">Salamu, Dunia</a>
