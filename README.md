@@ -45,7 +45,10 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
  <i>cookies</i> website dengan bahasa <i>Swahili</i> menggunakan <i>Inspect Element - Tab Application - Cookies</i></p>
  
 ![image 3](CTFILP/General/1%20-%20Salamu%2C%20Dunia/3.png) 
- <p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553 </strong>. Apakah maksud <i>values</i> tersebut?. Cuba <i> decrypt</i>. <i> Copy value</i></p> tersebut dan paste di 
+ <p> Disini kita dapat lihat data untuk cookies diberi nama <i> locale </i> dan <i>values</i> adalah <strong> 656E5F5553 </strong>. Apakah maksud <i>values</i> tersebut?. Cuba <i> decrypt</i>. 
+     
+![image 4](CTFILP/General/1%20-%20Salamu%2C%20Dunia/4.png)      
+<i> Copy value</i></p> tersebut dan paste di <a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a>.
 
 
 
