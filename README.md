@@ -227,7 +227,9 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 
 ![image 45](CTFILP/Hacked/5/3.png)
 <p>Mula-mula perlu simpan <b>registery</b>.</p>
-<p>PENTING! <b>RUN AS ADMINISTRATOR</b>.<p>
+
+
+<p>PENTING! <b>RUN MIMIKATS AS ADMINISTRATOR</b>.<p>
 <p><i>Command</i> yang pertama untuk akses <i>dump</i>: <code>privilege::debug</code> .<p>
 <p><i>Command</i> kedua : <code>token::elevate</code> .</p>
 
