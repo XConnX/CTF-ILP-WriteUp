@@ -118,3 +118,49 @@
 
 ![image 24](CTFILP/General/5%20-%20Mystification/4.png) 
 <p><b>Run alert<b> <i>function</i> di <i>Javascript Compiler</i> dan dapat <b>flag</b>.</p>
+
+- <h3 id="Slow"><b>Slow Internet</b></h3>
+
+![image 25](CTFILP/General/6%20-%20Slow%20Internet/1.png)
+<p>Diberi adalah sebuah <i>folder PCAPNG</i>. <i>Download folder pcapng</i> tersebut.</p> 
+
+![image 26](CTFILP/General/6%20-%20Slow%20Internet/2.png)
+<p>Buka menggunakan <i>WIRESHARK</i> dan semak semua <i>info</i> pada <i>protocol DNS</i> terdapat <i>info</i> tersebut.</p> 
+
+![image 27](CTFILP/General/6%20-%20Slow%20Internet/3.png)
+<p><i>Copy</i> semua  <i>info</i> tersebut.</p> 
+
+![image 28](CTFILP/General/6%20-%20Slow%20Internet/4.png)
+<p><i>Copy encryption</i> yang pertama <i>info</i> tersebut dan <i>paste</i> di <i><a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a>.</p> 
+
+![image 29](CTFILP/General/6%20-%20Slow%20Internet/5.png)
+<p><i>Encryption</i> adalah <b>base32</b> : <b> NasiAyamKakWok</b>.</p> 
+
+![image 30](CTFILP/General/6%20-%20Slow%20Internet/6.png)
+<p>Gabung semua <i>Encryption</i> dari 1 hingga 8, <i>paste</i> di <i><a href="https://www.dcode.fr/cipher-identifier"> Cipher Identifier </a></i>.</p> 
+
+![image 31](CTFILP/General/6%20-%20Slow%20Internet/7.png)
+<p>Result adalah sebuah <i>folder</i>. <i>Download folder</i>.</p> 
+
+![image 32](CTFILP/General/6%20-%20Slow%20Internet/8.png)
+<p>Terdapat <i>flag file</i>, masukkan <i>password</i> yang di<i>encrpt</i> awal : <b> NasiAyamKakWok</b></p>.
+
+![image 33](CTFILP/General/6%20-%20Slow%20Internet/9.png)
+<p><b>Flag</b>.</p>
+
+<p>Maklumat:</p>
+<code>A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
+
+01-KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZ \zqu"vqpzppt"ppppvz*$t'bdrcsqc}xppppr$ppppptppwpp|+
+ 02-WGCZZOOR4HIVKUBEAAHX7K6NSNN2XTMR2XQCYAAECOQAYAAACO 
+03-QAYAAA546JIBXPIZM5VRXMLWEWB56MVZJUCOJ2PQN5IQHPIEEM 
+04-YYKMV556FCSTYKXVWTAGRH6TAXFHGSW2NNLQQ7M4SQJMDQQ7IX 
+ 05-AYPDKAAAAAUQAAAAKBFQCAQ6AMFAACIAAAADFMJCK56ROBQ6GU 
+ 06-AAAABJAAAAACAADAAAAAAAAAAQAAAAUSAQAAAAABTGYYLHFZ2H 
+ 07-Q5CVKQCQAA675LZWI5LYBMAACBHIAMAAABHIAMAAAUCLAUDAAA 
+ 08-AAAAAQAAIAJYAAAAEHAAAAAAAA ppppp"ppxpy*pppptwpppppppp
+
+
+A 01-JZQXG2KBPFQW2S3BNNLW62YK - NasiAyamKakWok
+
+KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XTMR2XQCYAAECOQAYAAACOQAYAAA546JIBXPIZM5VRXMLWEWB56MVZJUCOJ2PQN5IQHPIEEMYYKMV556FCSTYKXVWTAGRH6TAXFHGSW2NNLQQ7M4SQJMDQQ7IXAYPDKAAAAAUQAAAAKBFQCAQ6AMFAACIAAAADFMJCK56ROBQ6GUAAAABJAAAAACAADAAAAAAAAAAQAAAAUSAQAAAAABTGYYLHFZ2HQ5CVKQCQAA675LZWI5LYBMAACBHIAMAAABHIAMAAAUCLAUDAAAAAAAAQAAIAJYAAAAEHAAAAAAAA - LINK</code>
