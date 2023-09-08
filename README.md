@@ -225,17 +225,17 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 
 <p>Maklumat Tambahan : untuk cari password yang telah diakses oleh <i>attacker</i> kita memerlukan satu aplikasi yang bernama <b>mimikatz</b> untuk <b>dump hashes logon user</b>.</p>
 
-![image 45](CTFILP/Hacked/4/3.png)
+![image 45](CTFILP/Hacked/5/3.png)
 <p>Mula-mula perlu simpan <b>registery</b>.</p>
 <p>PENTING! <b>RUN AS ADMINISTRATOR</b>.<p>
 <p><i>Command</i> yang pertama untuk akses <i>dump</i>: <code>privilege::debug</code> .<p>
 <p><i>Command</i> kedua : <code>token::elevate</code> .</p>
 
-![image 46](CTFILP/Hacked/4/1.png)
+![image 46](CTFILP/Hacked/5/1.png)
 <p>Seterusnya <b>dump hashes</b> menggunakan <i>command</i> ketiga <code>lsadump::sam filename1.hiv filename2.hiv</code>.</p>
 <p><i>Command</i> keempat <code>log hash.txt</code>. Untuk simpan sebagai <i>text file</i>.</p>
 
-![image 47](CTFILP/Hacked/4/2.png)
+![image 47](CTFILP/Hacked/5/2.png)
 <p><b>Crack NTLM Hashes</b> tersebut. Jawapan : password10.</p>
 
 
