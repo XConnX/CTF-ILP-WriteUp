@@ -254,17 +254,16 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 50](CTFILP/Hacked/7/1.png)
 <p> Cari <i>flag</i>.</p>
 
-![image 51](CTFILP/Hacked/7/2.png)
-<p>Akses <i>user admin</i> dengan <i>password </i>Password10.</p>
+<p>Akses <i>Windows 10</i> tadi menggunkan <i>user admin</i> dengan <i>password </i>Password10.</p>
 
 <p>Maklumat : </p>
 <p>Buka <i>allocated partition</i> kemungkinan <i>flag</i> ada ada di dalam <i>partiton</i> tersebut.</p>
 <p><i>partition</i> berbentuk <b>RAW</b>. <i>Recover partition</i> tersebut menggunakan <b>DISK DRILL</b>.</p>
 
-![image 52](CTFILP/Hacked/7/3.png)
+![image 52](CTFILP/Hacked/7/2.png)
 <p>Jumpa! Fail bernama <b>Assignment.docx</b>.</p>
 
-![image 53](CTFILP/Hacked/7/4.png)
+![image 53](CTFILP/Hacked/7/3.png)
 <p><i>Recover</i> dan dapat <i>flag</i>.</p>
 
 
