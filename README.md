@@ -129,7 +129,7 @@
 <p><i>Copy</i> semua  <i>info</i> tersebut.</p> 
 
 ![image 28](CTFILP/General/6%20-%20Slow%20Internet/4.png)
-<p><i>Copy encryption</i> yang pertama <i>info</i> tersebut dan <i>paste</i> di <i><a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a>.</p> 
+<p><i>Copy encryption</i> yang pertama <i>info</i> tersebut dan <i>paste</i> di <a href="https://www.cachesleuth.com/multidecoder/"> Multidecoder </a>.</p> 
 
 ![image 29](CTFILP/General/6%20-%20Slow%20Internet/5.png)
 <p><i>Encryption</i> adalah <b>base32</b> : <b> NasiAyamKakWok</b>.</p> 
