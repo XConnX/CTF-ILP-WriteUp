@@ -7,4 +7,8 @@ Pertandingan "CAPTURE THE FLAG" Unleash The Cyber Warrior, yang diadakan di Inst
 
 + <a href="#GENERAL" id="GENERAL">GENERAL</a>
     - <a href="#Salamu" id="Salamu">Salamu, Dunia</a>
-    - <a href="#Salamu" id="Salamu">Salamu, Dunia</a>
+    - <a href="#Gold" id="Gold">Gold Digger</a>
+    - <a href="#Manage" id="Manage">Flag Management System</a>
+    - <a href="#Admin" id="Admin">Be The Admin</a>
+    - <a href="#Mystification" id="Mystification">Mystification</a>
+    - <a href="#Slow" id="Slow">Slow Internet</a>
