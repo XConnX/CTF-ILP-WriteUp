@@ -72,7 +72,7 @@
 <p>Soalan diberi <i>link website</i>.</p>
 
 ![image 11](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
-<p>Menggunakan <i>command linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
+<p>Menggunakan <i>linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
 
 - <p id="Manage"><b>Flag Management System</b></p>
 
@@ -104,3 +104,17 @@
 
 ![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
 <p>Flag.</p>
+
+- <p id="Mystification"><b>Mystification</b></p>
+
+![image 21](CTFILP/General/5%20-%20Mystification/1.png) 
+<p>Soalan diberi <i>link website</i>.</p>
+
+![image 22](CTFILP/General/5%20-%20Mystification/2.png) 
+<p><i>View Source Code website</i> dan dapat lihat jika <i>username</i> dan <i>password</i> betul akan memanggil <b>flag<b> <i>function</i>.</p>
+
+![image 23](CTFILP/General/5%20-%20Mystification/3.png) 
+<p>Cari <b>flag<b> <i>function</i>.</p>
+
+![image 24](CTFILP/General/5%20-%20Mystification/4.png) 
+<p><b>Run alert<b> <i>function</i> di <i>Javascript Compiler</i> dan dapat <b>flag</b>.</p>
