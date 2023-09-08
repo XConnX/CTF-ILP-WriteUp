@@ -36,7 +36,7 @@
 
 # <h2 id="GENERAL"><strong>GENERAL</strong></h2>
 
- - <p id="Salamu"><b>Salamu, Dunia</b></p>
+ - <h3 id="Salamu"><b>Salamu, Dunia</b></h3>
  
 ![image 1](CTFILP/General/1%20-%20Salamu%2C%20Dunia/1.png) 
 <p>Soalan diberi <i>link website</i>.</p>
@@ -66,7 +66,7 @@
 ![image 9](CTFILP/General/1%20-%20Salamu%2C%20Dunia/9.png)
 <p>Dan ini adalah <b>flag</b>nya.</p>
 
-- <p id="Gold"><b>Gold Digger</b></p>
+- <h3 id="Gold"><b>Gold Digger</b></h3>
 
 ![image 10](CTFILP/General/2%20-%20Gold%20Digger/1.png) 
 <p>Soalan diberi <i>link website</i>.</p>
@@ -74,7 +74,7 @@
 ![image 11](CTFILP/General/2%20-%20Gold%20Digger/2.png) 
 <p>Menggunakan <i>linux</i> iaitu <b>dig</b> dan <i>parameter <b>txt</b></i> untuk dapatkan info laman tersebut dan dapat <b>flag</b>.</p>
 
-- <p id="Manage"><b>Flag Management System</b></p>
+- <p id="Manage"><h3>Flag Management System</b></h3>
 
 ![image 12](CTFILP/General/3%20-%20Flag%20Management%20System/1.png) 
 <p>Diberi adalah sebuah <i>folder</i>. <i>Download folder</i> tersebut.</p> 
@@ -94,7 +94,7 @@
 ![image 17](CTFILP/General/3%20-%20Flag%20Management%20System/6.png) 
 <p> Flag.</p>
 
-- <p id="Admin"><b>Be The Admin</b></p>
+- <h3 id="Admin"><b>Be The Admin</b></h3>
 
 ![image 18](CTFILP/General/4%20-%20Be%20the%20admin/1.png) 
 <p>Soalan diberi <i>link website</i> serta <i>hint</i> mengatakan hanya <i>admin</i> sahaja boleh <i>akses</i>.</p>
@@ -105,7 +105,7 @@
 ![image 20](CTFILP/General/4%20-%20Be%20the%20admin/3.png) 
 <p>Flag.</p>
 
-- <p id="Mystification"><b>Mystification</b></p>
+- <h3 id="Mystification"><b>Mystification</b></h3>
 
 ![image 21](CTFILP/General/5%20-%20Mystification/1.png) 
 <p>Soalan diberi <i>link website</i>.</p>
