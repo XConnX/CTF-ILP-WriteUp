@@ -293,3 +293,5 @@ KBFQGBAKAAEQAAAAGKYSEV35C4DB4NIAAAACSAAAAAEAAHAAMZWGCZZOOR4HIVKUBEAAHX7K6NSNN2XT
 ![image 59](CTFILP/Trivia/3%20-%20Supper/2.png)
 <p>Jawapan : <i>Encrypt</i> NasiAyam : <code>4d9eeb0fe9eb1d28492508c2db631c38</code>.</p>
 
+
+![image 60](CTFILP/Scoreboard.jpeg)
